@@ -3,14 +3,19 @@
 Endless snake with obstacles and dynamic map generation.
 
 ## 💻 Run:
-- Download [Calculator_v.1.exe](Calculator_v.1.exe)
+- Download [Friday13-II.exe](Friday13-II.exe)
+
+- Or run [Friday13-II.py](Friday13-II.py)
+
+## 💾 Code comments:
+- 🇷🇺 Russian version: [Comments](FrDay13-II_com_RU.py)
   
-- Or run [Calculator_v.1.py](Calculator_v.1.py)
+- 🇺🇲 English version: [Comments](FrDay13-II_com_EN.py)
 
 ## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](README_RU.md)
+- 🇷🇺  Russian version [Document](Friday13-II_RU.md)
   
-- 🇺🇲  English version: [Document](README_EN.md)
+- 🇺🇲  English version: [Document](Friday13-II_EN.md)
 
 ## 📷 Screenshots:
 ![](screenshot1.png)
