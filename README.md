@@ -2,22 +2,17 @@
 
 Endless snake with obstacles and dynamic map generation.
 
-## 💻 Run:
-- Download [Friday13-II.exe](Friday13-II.exe)
+## 💻 Project Run
+- Open with Python: [Friday13-II.py](Friday13-II.py)
 
-- Or run [Friday13-II.py](Friday13-II.py)
-
-## 💾 Code comments:
-- 🇷🇺 Russian version: [Comments](FrDay13-II_com_RU.py)
+- Or download exe: [Friday13-II.exe](Friday13-II.exe)
   
-- 🇺🇲 English version: [Comments](FrDay13-II_com_EN.py)
-
-## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](Friday13-II_RU.md)
+## 📄 Full Documentation
+- 🇷🇺  Russian version [Documentation](Friday13-II_RU.md)
   
-- 🇺🇲  English version: [Document](Friday13-II_EN.md)
+- 🇺🇲  English version: [Documentation](Friday13-II_EN.md)
 
-## 📷 Screenshots:
+## 📷 Screenshots
 ![](screenshot1.png)
 
 © NebulaStack
