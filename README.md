@@ -5,7 +5,7 @@ Endless snake with obstacles and dynamic map generation.
 ## 💻 Project Run
 - Open with Python: [Friday13-II.py](Friday13-II.py)
 
-- Or download exe: [Friday13-II.exe](Friday13-II.exe)
+- Or download exe: [Friday13-II.exe]()
   
 ## 📄 Full Documentation
 - 🇷🇺  Russian version [Documentation](Friday13-II_RU.md)
