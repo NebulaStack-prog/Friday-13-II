@@ -13,6 +13,8 @@ Endless snake with obstacles and dynamic map generation.
 - 🇺🇲  English version: [Documentation](Friday13-II_EN.md)
 
 ## 📷 Screenshots
-![](screenshot1.png)
+![](Frday13_II_1.png)
+![](FrDay13_II_2.png)
+![](FrDay13_II_3.png)
 
 © NebulaStack
