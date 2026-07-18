@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/Friday-13-II/blob/main/IMG_20260701_020300_627.jpg" width="200" height="230">
 
-Endless snake with obstacles and dynamic map generation.
+> Endless snake with obstacles and dynamic map generation.
 
 ## 💻 Project Run
 - Open with Python: [Friday13-II.py](Friday13-II.py)
