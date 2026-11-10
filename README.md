@@ -7,7 +7,7 @@
 ## 💻 Project Run
 - Open with Python: [Friday13-II.py](Friday13-II.py)
 
-- Or download exe: [Friday13-II.exe]()
+- Or download exe: [Friday13-II.exe](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0)
   
 ## 📄 Full Documentation
 - 🇷🇺  Russian version [Documentation](Friday13-II_RU.md)
