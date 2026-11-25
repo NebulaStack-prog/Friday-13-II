@@ -5,7 +5,7 @@
 > Endless snake with obstacles and dynamic map generation.
 
 ## 💻 Project Run
-- Open with Python: [Friday13-II-v2.py](Friday13-II-2.py)
+- Open with Python: [Friday13-II-v2.py](Friday13-II-v2.py)
 
 - Or download exe: [Friday13-II.exe](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0)
 
