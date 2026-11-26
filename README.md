@@ -13,6 +13,8 @@
 | Platform | Windows / Python |
 | Status | Completed |
 
+> [![CI](https://github.com/NebulaStack-prog/Friday-13-II/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Friday-13-II/actions/workflows/ci.yml)
+
 ## 📖 Overview
 
 An endless interpretation of Snake that introduces a procedurally generated world with environmental obstacles and an expanding play area.
@@ -38,6 +40,16 @@ An endless interpretation of Snake that introduces a procedurally generated worl
 - Or run with Python: [Updated source code](Friday13-II-v2.py). Requires Pygame.
 
 - Original source code: [more...](Friday13-II.py).
+
+## 🧪 Testing
+
+Automated tests run through GitHub Actions. To run locally with Pygame installed:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+Tests cover game logic and record storage without opening a visible window.
 
 ## 📊 Project Status
 
