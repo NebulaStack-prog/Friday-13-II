@@ -1,24 +1,54 @@
-# Friday 13 – II
+# Friday 13 - II
 
-<img src="https://github.com/NebulaStack-prog/Friday-13-II/blob/main/IMG_20260701_020300_627.jpg" width="200" height="230">
+<img src="IMG_20260701_020300_627.jpg" width="200" alt="Friday 13 - II emblem">
 
-> Endless snake with obstacles and dynamic map generation.
+> Endless Snake with obstacles and dynamic world generation.
 
-## 💻 Project Run
-- Open with Python: [Friday13-II-v2.py](Friday13-II-v2.py)
+| Project Information | Details |
+|---|---|
+| Project ID | NS-004 |
+| Direction | Games |
+| Development Phase | Phase I |
+| Version | v1.0.0 |
+| Platform | Windows / Python |
+| Status | Completed |
 
-- Or download exe: [Friday13-II.exe](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0)
+## 📖 Overview
 
-- Or use old Python code: [Friday13-II.py](Friday13-II.py)
-  
-## 📄 Full Documentation
-- 🇷🇺  Russian version [Documentation](Friday13-II_RU.md)
-  
-- 🇺🇲  English version: [Documentation](Friday13-II_EN.md)
+An endless interpretation of Snake that introduces a procedurally generated world with environmental obstacles and an expanding play area.
+
+## ✨ Features
+
+- Endless gameplay
+- Procedural chunk-based world generation
+- Trees, rocks, lakes and fences
+- Dynamic food generation
+- Persistent local best score
+
+## 🛠 Technology Stack
+
+- Python
+- Pygame
+- JSON
+
+## 📦 Installation
+
+- Download the Windows executable from [GitHub Releases](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0).
+
+- Or run with Python: [Updated source code](Friday13-II-v2.py). Requires Pygame.
+
+- Original source code: [more...](Friday13-II.py).
+
+## 📊 Project Status
+
+A completed NESTIMS Phase I project. Both the original and updated Python implementations are preserved.
 
 ## 📷 Screenshots
-![](Frday13_II_1.png)
-![](FrDay13_II_2.png)
-![](FrDay13_II_3.png)
+
+![Screenshot 1](Frday13_II_1.png)
+
+![Screenshot 2](FrDay13_II_2.png)
+
+![Screenshot 3](FrDay13_II_3.png)
 
 © NESTIMS
