@@ -9,7 +9,7 @@
 | Project ID | NS-004 |
 | Direction | Games |
 | Development Phase | Phase I |
-| Version | v2.0 |
+| Version | v1.1 |
 | Platform | Windows / Python |
 | Status | Completed |
 
