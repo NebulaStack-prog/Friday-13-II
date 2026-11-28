@@ -39,11 +39,11 @@ An endless interpretation of Snake that introduces a procedurally generated worl
 
 ## 📦 Installation
 
-- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0).
+- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0)
 
-- Or run with Python latest version of code: [more...](Friday13-II-v2.py). Requires Pygame.
+- Or run with Python latest version of code: [more...](Friday13-II-v2.py)
 
-- Original source code: [more...](Friday13-II.py).
+- Original source code: [more...](Friday13-II.py)
 
 ## 📊 Project Status
 
