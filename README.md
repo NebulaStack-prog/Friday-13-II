@@ -49,7 +49,7 @@ An endless interpretation of Snake that introduces a procedurally generated worl
 
 A completed NESTIMS Phase I project. Both the original and updated Python implementations are preserved.
 
-## 📷 Screenshots
+## 📸 Screenshots
 
 ![Screenshot 1](Frday13_II_1.png)
 
