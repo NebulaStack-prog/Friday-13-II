@@ -22,9 +22,13 @@ An endless interpretation of Snake that introduces a procedurally generated worl
 ## ✨ Features
 
 - Endless gameplay
+
 - Procedural chunk-based world generation
+
 - Trees, rocks, lakes and fences
+
 - Dynamic food generation
+
 - Persistent local best score
 
 ## 🛠 Technology Stack
@@ -35,21 +39,11 @@ An endless interpretation of Snake that introduces a procedurally generated worl
 
 ## 📦 Installation
 
-- Download the Windows executable from [GitHub Releases](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0).
+- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Friday-13-II/releases/tag/v1.0.0).
 
-- Or run with Python: [Updated source code](Friday13-II-v2.py). Requires Pygame.
+- Or run with Python latest version of code: [more...](Friday13-II-v2.py). Requires Pygame.
 
 - Original source code: [more...](Friday13-II.py).
-
-## 🧪 Testing
-
-Automated tests run through GitHub Actions. To run locally with Pygame installed:
-
-```bash
-python -m unittest discover -s tests -v
-```
-
-Tests cover game logic and record storage without opening a visible window.
 
 ## 📊 Project Status
 
